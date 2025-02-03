@@ -17,7 +17,7 @@ function Hero() {
       </p>
       <div className="mt-12 max-w-6xl mx-auto">
         <img 
-          src="/dashboard-preview.png" 
+          src="/images/Dashboard.jpg" 
           alt="Triplo Dashboard" 
           className="w-full rounded-lg shadow-2xl"
         />
