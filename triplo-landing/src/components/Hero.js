@@ -1,4 +1,5 @@
 import React from 'react';
+import DashboardImage from '../images/dashboard.jpg';
 
 function Hero() {
   return (
@@ -17,7 +18,7 @@ function Hero() {
       </p>
       <div className="mt-12 max-w-6xl mx-auto">
         <img 
-          src="/images/Dashboard.jpg" 
+          src={DashboardImage} 
           alt="Triplo Dashboard" 
           className="w-full rounded-lg shadow-2xl"
         />
