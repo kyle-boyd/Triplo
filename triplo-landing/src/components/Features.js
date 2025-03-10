@@ -5,20 +5,20 @@ function Features() {
     <div className="py-20 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4">
         <h2 className="text-3xl font-bold mb-12 text-center">
-          Design with real components, not mockups.
+          Spend time making decisions, not finding the right information.
         </h2>
         <div className="grid md:grid-cols-3 gap-8">
           <FeatureCard
-            title="Drag-and-drop"
-            description="Easily create responsive designs with our intuitive interface"
+            title="Upload proect specs once"
+            description="Import your project specification and let our AI understand your requirements automatically"
           />
           <FeatureCard
-            title="Custom components"
-            description="Build and reuse your own components"
+            title="AI-powered analysis"
+            description="Our AI reads and understands submittals, comparing them against your specs in seconds"
           />
           <FeatureCard
-            title="Real-time collaboration"
-            description="Work together in real-time with your team"
+            title="Save hours per submittal"
+            description="Focus on making decisions, not searching through specs and checking requirements"
           />
         </div>
       </div>

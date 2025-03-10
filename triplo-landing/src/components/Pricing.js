@@ -13,7 +13,7 @@ function Pricing() {
             price="$0"
             features={[
               'Up to 3 projects',
-              'Basic components',
+              'Basic reports',
               'Community support',
               'Limited exports'
             ]}
@@ -37,7 +37,7 @@ function Pricing() {
             title="Enterprise"
             price="Custom"
             features={[
-              'Custom solutions',
+              'Unlimited users',
               'Dedicated support',
               'SLA guarantee',
               'Advanced security'

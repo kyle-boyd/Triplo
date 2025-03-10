@@ -5,26 +5,26 @@ function Testimonials() {
     <div className="py-20">
       <div className="max-w-7xl mx-auto px-4">
         <h2 className="text-3xl font-bold text-center mb-12">
-          Thousands of founders, designers, and developers build with Triplo.
+          Thousands of engineers and architects and AEC firms get submittals done with Triplo.
         </h2>
         <div className="grid md:grid-cols-3 gap-8">
           <TestimonialCard
-            quote="Triplo completely transformed how we build our product. The speed is incredible."
+            quote="Triplo completely transformed how we handle submittals. The speed is incredible."
             author="Sarah Chen"
-            role="Product Designer"
-            company="TechCorp"
+            role="Civil Engineer"
+            company="Merrick"
           />
           <TestimonialCard
-            quote="The AI features are mind-blowing. It's like having a design partner that never sleeps."
+            quote="The AI features are mind-blowing. It's like having a 20 year veteran at your call anytime."
             author="Mike Johnson"
-            role="Frontend Developer"
-            company="StartupX"
+            role="Project Architect"
+            company="Gensler"
           />
           <TestimonialCard
-            quote="We cut our design-to-development time in half. Amazing tool, amazing team."
+            quote="We cut our submittal review time in half. Amazing tool, amazing team."
             author="Lisa Martinez"
-            role="CEO"
-            company="DesignFlow"
+            role="Project Manager"
+            company="AECOM"
           />
         </div>
       </div>

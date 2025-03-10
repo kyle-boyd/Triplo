@@ -5,23 +5,22 @@ function AISection() {
     <div className="py-20">
       <div className="max-w-7xl mx-auto px-4">
         <h2 className="text-4xl font-bold text-center mb-6">
-          Our AI knows good design.
+          Review submittals with confidence.
         </h2>
         <p className="text-xl text-gray-600 text-center mb-12 max-w-2xl mx-auto">
-          Go from idea to interface in seconds. Then, bring it to life with AI at your fingertips. 
-          Our AI makes everything better & faster.
+          Our AI tool understands your specs and your submittals.
         </p>
         <div className="grid md:grid-cols-2 gap-8">
           <div className="bg-gradient-to-br from-purple-500 to-indigo-500 rounded-2xl p-8 text-white">
-            <h3 className="text-2xl font-semibold mb-4">Smart Components</h3>
+            <h3 className="text-2xl font-semibold mb-4">Smart Specs</h3>
             <p className="text-lg opacity-90">
-              AI-powered components that adapt to your design system and brand guidelines.
+            Upload your project specifications once, our AI reads and indexes every requirement, creating a knowledge base specific to your project.
             </p>
           </div>
           <div className="bg-gradient-to-br from-pink-500 to-rose-500 rounded-2xl p-8 text-white">
-            <h3 className="text-2xl font-semibold mb-4">Intelligent Layout</h3>
+            <h3 className="text-2xl font-semibold mb-4">Instant Analysis</h3>
             <p className="text-lg opacity-90">
-              Let AI suggest the best layout for your content and components.
+              When contractors submit their documentation, our AI instantly analyzes it against your requirements, highlighting discrepancies and potential issues.
             </p>
           </div>
         </div>
